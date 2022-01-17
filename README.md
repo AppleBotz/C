@@ -1,17 +1,16 @@
-# File-sharing-Bot
-
+# FileFsub
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
   <a href="https://t.me/NEGATIVEROOM">
-    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
+    <img src="https://github.com/codexbotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/SitusLink">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/Filefsub-Negativeroom-blueviolet?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <a href="https://t.me/NEGATIVEROOM">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/Filefsub-Negativeroom-blueviolet?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
   <a href="https://github.com/AppleBotz/FileFsub1/stargazers">
@@ -45,7 +44,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ### Installation
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)</br>
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
